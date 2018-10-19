@@ -50,7 +50,3 @@ def main(main_path):
 
 if __name__ == '__main__':
 	main('/home/danilo/Downloads/dados_eleitorais/candidatos/')
-
-
-
-'BENS_CANDIDATOS - 2006' : 26/02/2013,16:23:38,2006,ELEICOES 2006,AC,10000,-1,#NE#,FIRMA F.J.B.DIAS - ME,10000,#NE#,#NE#
